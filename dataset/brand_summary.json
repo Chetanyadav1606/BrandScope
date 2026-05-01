@@ -1,0 +1,650 @@
+{
+  "Safari": {
+    "brand": "Safari",
+    "product_count": 12,
+    "review_count": 77,
+    "total_listed_reviews": 98112,
+    "avg_price": 3332,
+    "min_price": 1499,
+    "max_price": 8199,
+    "avg_list_price": 8266,
+    "avg_discount_pct": 57.2,
+    "avg_rating": 3.67,
+    "avg_sentiment": 0.522,
+    "sentiment_distribution": {
+      "positive": 63,
+      "neutral": 1,
+      "negative": 13
+    },
+    "aspect_sentiment": {
+      "value": {
+        "avg_sentiment": 0.629,
+        "mention_count": 44,
+        "positive_pct": 88.6
+      },
+      "design": {
+        "avg_sentiment": 0.651,
+        "mention_count": 26,
+        "positive_pct": 92.3
+      },
+      "wheels": {
+        "avg_sentiment": 0.208,
+        "mention_count": 24,
+        "positive_pct": 54.2
+      },
+      "size": {
+        "avg_sentiment": 0.649,
+        "mention_count": 26,
+        "positive_pct": 96.2
+      },
+      "material": {
+        "avg_sentiment": 0.515,
+        "mention_count": 23,
+        "positive_pct": 78.3
+      },
+      "durability": {
+        "avg_sentiment": 0.554,
+        "mention_count": 20,
+        "positive_pct": 80.0
+      },
+      "zipper": {
+        "avg_sentiment": 0.432,
+        "mention_count": 13,
+        "positive_pct": 69.2
+      },
+      "handle": {
+        "avg_sentiment": 0.518,
+        "mention_count": 11,
+        "positive_pct": 72.7
+      }
+    },
+    "top_pros": [
+      {
+        "theme": "good value",
+        "count": 39
+      },
+      {
+        "theme": "good size",
+        "count": 25
+      },
+      {
+        "theme": "good design",
+        "count": 24
+      },
+      {
+        "theme": "good material",
+        "count": 18
+      },
+      {
+        "theme": "good durability",
+        "count": 16
+      }
+    ],
+    "top_cons": [
+      {
+        "theme": "poor wheels",
+        "count": 11
+      },
+      {
+        "theme": "wheel quality",
+        "count": 9
+      },
+      {
+        "theme": "poor material",
+        "count": 5
+      },
+      {
+        "theme": "poor value",
+        "count": 5
+      },
+      {
+        "theme": "build quality",
+        "count": 4
+      }
+    ],
+    "anomalies": [],
+    "vfm_score": 0.706,
+    "suspicious_reviews": 0,
+    "positioning": "mass-market"
+  },
+  "Skybags": {
+    "brand": "Skybags",
+    "product_count": 12,
+    "review_count": 83,
+    "total_listed_reviews": 38212,
+    "avg_price": 3907,
+    "min_price": 2199,
+    "max_price": 8899,
+    "avg_list_price": 7716,
+    "avg_discount_pct": 46.6,
+    "avg_rating": 3.79,
+    "avg_sentiment": 0.6,
+    "sentiment_distribution": {
+      "positive": 71,
+      "neutral": 3,
+      "negative": 9
+    },
+    "aspect_sentiment": {
+      "size": {
+        "avg_sentiment": 0.746,
+        "mention_count": 15,
+        "positive_pct": 93.3
+      },
+      "value": {
+        "avg_sentiment": 0.665,
+        "mention_count": 34,
+        "positive_pct": 91.2
+      },
+      "design": {
+        "avg_sentiment": 0.572,
+        "mention_count": 45,
+        "positive_pct": 82.2
+      },
+      "wheels": {
+        "avg_sentiment": 0.694,
+        "mention_count": 24,
+        "positive_pct": 91.7
+      },
+      "handle": {
+        "avg_sentiment": 0.704,
+        "mention_count": 15,
+        "positive_pct": 93.3
+      },
+      "zipper": {
+        "avg_sentiment": 0.482,
+        "mention_count": 13,
+        "positive_pct": 76.9
+      },
+      "material": {
+        "avg_sentiment": 0.434,
+        "mention_count": 18,
+        "positive_pct": 77.8
+      },
+      "durability": {
+        "avg_sentiment": 0.539,
+        "mention_count": 41,
+        "positive_pct": 80.5
+      }
+    },
+    "top_pros": [
+      {
+        "theme": "good design",
+        "count": 37
+      },
+      {
+        "theme": "good durability",
+        "count": 33
+      },
+      {
+        "theme": "good value",
+        "count": 31
+      },
+      {
+        "theme": "good wheels",
+        "count": 22
+      },
+      {
+        "theme": "good size",
+        "count": 14
+      }
+    ],
+    "top_cons": [
+      {
+        "theme": "poor design",
+        "count": 6
+      },
+      {
+        "theme": "poor durability",
+        "count": 5
+      },
+      {
+        "theme": "poor zipper",
+        "count": 3
+      },
+      {
+        "theme": "poor material",
+        "count": 3
+      },
+      {
+        "theme": "poor value",
+        "count": 2
+      }
+    ],
+    "anomalies": [],
+    "vfm_score": 0.692,
+    "suspicious_reviews": 0,
+    "positioning": "mass-market"
+  },
+  "American Tourister": {
+    "brand": "American Tourister",
+    "product_count": 12,
+    "review_count": 78,
+    "total_listed_reviews": 72489,
+    "avg_price": 7582,
+    "min_price": 3199,
+    "max_price": 19599,
+    "avg_list_price": 12032,
+    "avg_discount_pct": 38.6,
+    "avg_rating": 4.25,
+    "avg_sentiment": 0.645,
+    "sentiment_distribution": {
+      "positive": 70,
+      "neutral": 1,
+      "negative": 7
+    },
+    "aspect_sentiment": {
+      "wheels": {
+        "avg_sentiment": 0.735,
+        "mention_count": 25,
+        "positive_pct": 92.0
+      },
+      "durability": {
+        "avg_sentiment": 0.641,
+        "mention_count": 37,
+        "positive_pct": 89.2
+      },
+      "material": {
+        "avg_sentiment": 0.738,
+        "mention_count": 36,
+        "positive_pct": 94.4
+      },
+      "zipper": {
+        "avg_sentiment": 0.642,
+        "mention_count": 13,
+        "positive_pct": 92.3
+      },
+      "value": {
+        "avg_sentiment": 0.657,
+        "mention_count": 35,
+        "positive_pct": 91.4
+      },
+      "design": {
+        "avg_sentiment": 0.599,
+        "mention_count": 30,
+        "positive_pct": 83.3
+      },
+      "handle": {
+        "avg_sentiment": 0.663,
+        "mention_count": 22,
+        "positive_pct": 86.4
+      },
+      "size": {
+        "avg_sentiment": 0.721,
+        "mention_count": 15,
+        "positive_pct": 100.0
+      }
+    },
+    "top_pros": [
+      {
+        "theme": "good material",
+        "count": 34
+      },
+      {
+        "theme": "good durability",
+        "count": 33
+      },
+      {
+        "theme": "good value",
+        "count": 32
+      },
+      {
+        "theme": "good design",
+        "count": 25
+      },
+      {
+        "theme": "good wheels",
+        "count": 23
+      }
+    ],
+    "top_cons": [
+      {
+        "theme": "poor design",
+        "count": 5
+      },
+      {
+        "theme": "poor durability",
+        "count": 4
+      },
+      {
+        "theme": "poor value",
+        "count": 3
+      },
+      {
+        "theme": "very durable",
+        "count": 2
+      },
+      {
+        "theme": "poor wheels",
+        "count": 2
+      }
+    ],
+    "anomalies": [],
+    "vfm_score": 0.383,
+    "suspicious_reviews": 0,
+    "positioning": "premium"
+  },
+  "VIP": {
+    "brand": "VIP",
+    "product_count": 12,
+    "review_count": 80,
+    "total_listed_reviews": 23859,
+    "avg_price": 3457,
+    "min_price": 1599,
+    "max_price": 7699,
+    "avg_list_price": 7107,
+    "avg_discount_pct": 48.0,
+    "avg_rating": 3.79,
+    "avg_sentiment": 0.52,
+    "sentiment_distribution": {
+      "positive": 65,
+      "neutral": 3,
+      "negative": 12
+    },
+    "aspect_sentiment": {
+      "wheels": {
+        "avg_sentiment": 0.52,
+        "mention_count": 18,
+        "positive_pct": 88.9
+      },
+      "durability": {
+        "avg_sentiment": 0.338,
+        "mention_count": 29,
+        "positive_pct": 69.0
+      },
+      "size": {
+        "avg_sentiment": 0.491,
+        "mention_count": 31,
+        "positive_pct": 83.9
+      },
+      "zipper": {
+        "avg_sentiment": 0.356,
+        "mention_count": 21,
+        "positive_pct": 71.4
+      },
+      "value": {
+        "avg_sentiment": 0.596,
+        "mention_count": 46,
+        "positive_pct": 82.6
+      },
+      "design": {
+        "avg_sentiment": 0.66,
+        "mention_count": 28,
+        "positive_pct": 89.3
+      },
+      "material": {
+        "avg_sentiment": 0.547,
+        "mention_count": 23,
+        "positive_pct": 78.3
+      },
+      "handle": {
+        "avg_sentiment": 0.45,
+        "mention_count": 9,
+        "positive_pct": 77.8
+      }
+    },
+    "top_pros": [
+      {
+        "theme": "good value",
+        "count": 38
+      },
+      {
+        "theme": "good size",
+        "count": 26
+      },
+      {
+        "theme": "good design",
+        "count": 25
+      },
+      {
+        "theme": "good durability",
+        "count": 20
+      },
+      {
+        "theme": "good material",
+        "count": 18
+      }
+    ],
+    "top_cons": [
+      {
+        "theme": "poor durability",
+        "count": 7
+      },
+      {
+        "theme": "poor value",
+        "count": 6
+      },
+      {
+        "theme": "poor zipper",
+        "count": 6
+      },
+      {
+        "theme": "zipper quality",
+        "count": 5
+      },
+      {
+        "theme": "build quality",
+        "count": 4
+      }
+    ],
+    "anomalies": [],
+    "vfm_score": 0.678,
+    "suspicious_reviews": 0,
+    "positioning": "mass-market"
+  },
+  "Aristocrat": {
+    "brand": "Aristocrat",
+    "product_count": 12,
+    "review_count": 77,
+    "total_listed_reviews": 21999,
+    "avg_price": 2632,
+    "min_price": 1299,
+    "max_price": 5399,
+    "avg_list_price": 6591,
+    "avg_discount_pct": 58.1,
+    "avg_rating": 3.38,
+    "avg_sentiment": 0.457,
+    "sentiment_distribution": {
+      "positive": 61,
+      "neutral": 1,
+      "negative": 15
+    },
+    "aspect_sentiment": {
+      "design": {
+        "avg_sentiment": 0.639,
+        "mention_count": 24,
+        "positive_pct": 91.7
+      },
+      "wheels": {
+        "avg_sentiment": 0.769,
+        "mention_count": 9,
+        "positive_pct": 100.0
+      },
+      "material": {
+        "avg_sentiment": 0.419,
+        "mention_count": 26,
+        "positive_pct": 80.8
+      },
+      "durability": {
+        "avg_sentiment": 0.317,
+        "mention_count": 19,
+        "positive_pct": 73.7
+      },
+      "size": {
+        "avg_sentiment": 0.771,
+        "mention_count": 12,
+        "positive_pct": 91.7
+      },
+      "value": {
+        "avg_sentiment": 0.398,
+        "mention_count": 38,
+        "positive_pct": 73.7
+      },
+      "handle": {
+        "avg_sentiment": 0.301,
+        "mention_count": 17,
+        "positive_pct": 70.6
+      },
+      "zipper": {
+        "avg_sentiment": 0.532,
+        "mention_count": 11,
+        "positive_pct": 72.7
+      }
+    },
+    "top_pros": [
+      {
+        "theme": "good value",
+        "count": 28
+      },
+      {
+        "theme": "good design",
+        "count": 22
+      },
+      {
+        "theme": "good material",
+        "count": 21
+      },
+      {
+        "theme": "good durability",
+        "count": 14
+      },
+      {
+        "theme": "good handle",
+        "count": 12
+      }
+    ],
+    "top_cons": [
+      {
+        "theme": "poor durability",
+        "count": 10
+      },
+      {
+        "theme": "poor value",
+        "count": 9
+      },
+      {
+        "theme": "poor handle",
+        "count": 5
+      },
+      {
+        "theme": "poor material",
+        "count": 5
+      },
+      {
+        "theme": "build quality",
+        "count": 2
+      }
+    ],
+    "anomalies": [],
+    "vfm_score": 0.782,
+    "suspicious_reviews": 0,
+    "positioning": "mass-market"
+  },
+  "Nasher Miles": {
+    "brand": "Nasher Miles",
+    "product_count": 12,
+    "review_count": 79,
+    "total_listed_reviews": 43376,
+    "avg_price": 6132,
+    "min_price": 2499,
+    "max_price": 16599,
+    "avg_list_price": 11941,
+    "avg_discount_pct": 46.9,
+    "avg_rating": 4.08,
+    "avg_sentiment": 0.543,
+    "sentiment_distribution": {
+      "positive": 65,
+      "neutral": 5,
+      "negative": 9
+    },
+    "aspect_sentiment": {
+      "material": {
+        "avg_sentiment": 0.558,
+        "mention_count": 51,
+        "positive_pct": 86.3
+      },
+      "durability": {
+        "avg_sentiment": 0.458,
+        "mention_count": 37,
+        "positive_pct": 75.7
+      },
+      "value": {
+        "avg_sentiment": 0.61,
+        "mention_count": 47,
+        "positive_pct": 87.2
+      },
+      "handle": {
+        "avg_sentiment": 0.671,
+        "mention_count": 21,
+        "positive_pct": 90.5
+      },
+      "design": {
+        "avg_sentiment": 0.587,
+        "mention_count": 48,
+        "positive_pct": 85.4
+      },
+      "zipper": {
+        "avg_sentiment": 0.641,
+        "mention_count": 10,
+        "positive_pct": 90.0
+      },
+      "wheels": {
+        "avg_sentiment": 0.65,
+        "mention_count": 19,
+        "positive_pct": 84.2
+      },
+      "size": {
+        "avg_sentiment": 0.739,
+        "mention_count": 15,
+        "positive_pct": 93.3
+      }
+    },
+    "top_pros": [
+      {
+        "theme": "good material",
+        "count": 44
+      },
+      {
+        "theme": "good value",
+        "count": 41
+      },
+      {
+        "theme": "good design",
+        "count": 41
+      },
+      {
+        "theme": "good durability",
+        "count": 28
+      },
+      {
+        "theme": "good handle",
+        "count": 19
+      }
+    ],
+    "top_cons": [
+      {
+        "theme": "poor durability",
+        "count": 6
+      },
+      {
+        "theme": "poor design",
+        "count": 6
+      },
+      {
+        "theme": "poor material",
+        "count": 4
+      },
+      {
+        "theme": "poor value",
+        "count": 3
+      },
+      {
+        "theme": "polycarbonate",
+        "count": 1
+      }
+    ],
+    "anomalies": [],
+    "vfm_score": 0.399,
+    "suspicious_reviews": 0,
+    "positioning": "mid-range"
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Best Value-for-Money Winner",
+    "insight": "Aristocrat delivers the highest sentiment-to-price ratio (VFM score: 0.782), meaning customers feel they get the most satisfaction per rupee spent. In contrast, American Tourister scores lowest (0.383), suggesting customers expect more for the price they pay.",
+    "category": "value",
+    "severity": "high"
+  },
+  {
+    "id": 2,
+    "title": "Discount-Dependent Brands",
+    "insight": "Safari, Aristocrat rely on heavy discounting (>50% average) to drive sales. This suggests their list prices are artificially inflated for perceived value, or their brand equity isn't strong enough to command full price. A decision-maker should question whether these brands can sustain margins.",
+    "category": "pricing",
+    "severity": "medium"
+  },
+  {
+    "id": 4,
+    "title": "The Wheel Quality Gap",
+    "insight": "Wheel quality is the most polarizing aspect across brands. Aristocrat leads with sentiment score 0.769 while Safari scores 0.208. Since wheels are the #1 mentioned aspect in negative reviews, this single feature significantly impacts overall brand perception.",
+    "category": "product",
+    "severity": "high"
+  },
+  {
+    "id": 6,
+    "title": "Industry-Wide Durability Concerns",
+    "insight": "Durability is mentioned in 183 reviews across all brands, making it the most discussed concern in the luggage category. No brand has solved this completely, presenting an opportunity for a brand that can credibly communicate and deliver long-term durability.",
+    "category": "market",
+    "severity": "medium"
+  }
+]
